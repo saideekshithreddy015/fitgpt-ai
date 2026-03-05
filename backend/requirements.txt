@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+spacy
+scikit-learn
+pandas
+numpy
+langchain-groq
+python-dotenv
+kaggle

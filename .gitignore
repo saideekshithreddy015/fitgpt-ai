@@ -1,0 +1,8 @@
+.venv
+.env
+fitgpt.db
+__pycache__/
+*.pyc
+*.pyo
+food41.zip
+FoodData_Central_csv.zip
