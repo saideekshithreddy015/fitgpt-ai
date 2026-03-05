@@ -4,4 +4,4 @@ load_dotenv()
 
 llm = ChatGroq(model="moonshotai/kimi-k2-instruct-0905")
 
-print(llm.invoke("what calorie content of 100g of rice?").content)
+print(llm.invoke("what calorie content of 100g of rice?").content);
